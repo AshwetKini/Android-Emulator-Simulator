@@ -5,7 +5,7 @@ An interactive and immersive portfolio showcasing React Native applications thro
 
 ## 🚀 Live Demo
 
-[**View Live Demo**] *(Update with your actual GitHub Pages URL)*
+[**View Live Demo**] *(https://ashwetandroid.netlify.app/)*
 
 ## ✨ Features
 
